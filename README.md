@@ -6,7 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376&theme=dracula)](https://github.com/marky376/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?marky376=marky376)](https://github.com/marky376
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376)](https://github.com/marky376
 /github-readme-activity-graph)
 <!---
 marky376/marky376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
