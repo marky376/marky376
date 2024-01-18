@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @marky376
+- Je is also ready to collabotate
 - 👀 I’m interested in Software development
 - Mark is a student at the Alx SE program and an aspiring mobile and web developer.
 - He has experience in developing responsive and user-friendly web interfaces with Bootstrap, and creating cross-platform mobile applications with Flutter.
