@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @marky376
-- I am also ready to collabotate
+- 👋 Hi, I’m 
 - I’m interested in Software development
 - Mark is a student at the Alx SE program and an aspiring mobile development.
 - I am a full stack developer.
