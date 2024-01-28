@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark Munyao Mutua
 - I’m interested in Software development
--  a student at the Alx SE program and an aspiring mobile development.
+-  I a student at the Alx SE program and an aspiring mobile development.
 - I am a full stack developer.
 - I have interacted with Flutter which is a platform for execising skills on Mobile App development.
 - I have experience in developing responsive and user-friendly web interfaces with Bootstrap, and creating cross-platform mobile applications with Flutter.
