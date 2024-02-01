@@ -4,7 +4,7 @@
 - I am a full stack developer.
 - I have interacted with Flutter which is a platform for execising skills on Mobile App development.
 - I have experience in developing responsive and user-friendly web interfaces with Bootstrap, and creating cross-platform mobile applications with Flutter.
--  proficient in Python, C, C++, Dart, and Markdown languages, and enjoys learning new technologies and frameworks.
+- He is proficient in Python, C, C++, Dart, and Markdown languages, and enjoys learning new technologies and frameworks.
 - He is passionate about solving problems and creating innovative solutions that make a positive impact on the world.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376&theme=dracula)](https://github.com/marky376/github-readme-activity-graph)
