@@ -16,6 +16,16 @@
 <a href="https://wa.me/+254701343452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="lxmwaniky" height="30" width="40" /></a>
 </p>
 
+
+# PROGRESS
+![marky376's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marky376&&theme=dracula)
+![marky376's GitHub stats](https://github-readme-stats.vercel.app/api?username=marky376&show_icons=true&theme=dracula)
+![marky376's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marky376&langs_count=20&theme=dracula&layout=compact) 
+![marky376's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marky376&theme=dracula&height=50&layout=compact)
+
+## 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=marky376&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376&theme=dracula)](https://github.com/marky376/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376)](https://github.com/marky376
