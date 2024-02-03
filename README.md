@@ -3,7 +3,7 @@
 - I am a student at the Alx SE program and an aspiring mobile development.
 - I am an aspiring full stack developer.
 - I have interacted with Flutter which is a platform for execising skills on Mobile App development.
-- 
+  
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
 
 # LETS CONNECT
