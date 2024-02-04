@@ -27,9 +27,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=marky376&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376&theme=dracula)](https://github.com/marky376/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marky376)](https://github.com/marky376
-/github-readme-activity-graph)
+
 https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
 <!---
 marky376/marky376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
