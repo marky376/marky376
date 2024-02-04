@@ -5,7 +5,8 @@
 - I have interacted with Flutter which is a platform for execising skills on Mobile App development.
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
 
-
+# About Me
+[![committers.top badge](https://user-badge.committers.top/kenya/marky376.svg)](https://user-badge.committers.top/kenya/marky376)
 # LETS CONNECT
 <p align="center">
 <a href="https://twitter.com/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmutuamark" height="30" width="40" /></a>
