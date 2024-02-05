@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark Munyao Mutua
+
 - I’m interested in Software development
 - I am a student at the Alx SE program and an aspiring mobile development.
 - I am an aspiring full stack developer.
