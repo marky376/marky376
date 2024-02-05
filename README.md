@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="280px" width="100%">
 <h1 align="center">Hi 👋, I'm MARK MUNYAO MUTUA</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
-- I am a student at the Alx SE program and an aspiring mobi
+- I am a student at the Alx SE program and an aspiring 
 - I am an aspiring full stack developer.
 - I have interacted with Flutter which is a platform for execising skills on Mobile App development.
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
