@@ -12,7 +12,7 @@
 <a href="https://twitter.com/mmutuamark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmutuamark" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/markmutua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markmutua" height="30" width="40" /></a>
 <a href="https://instagram.com/09.01_tech.star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="09.01_tech.star" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".juvenalism" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".juvenalism" height="30" width="40" /></a>
 <a href="https://wa.me/+254796169582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="markmutua" height="30" width="40" /></a>
 </p>
 </p>
