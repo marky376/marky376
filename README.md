@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from Kenya</h3>
 - I am a student at the Alx SE programme.
 - I am an aspiring full stack developer.
-- I have interacted with Flutter which is a platform for execising skills on
+- I have interacted with Flutter which is a platform for execising skills
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
 
 # About Me
