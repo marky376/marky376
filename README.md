@@ -1,6 +1,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="280px" width="100%">
 <h1 align="center">Hi 👋, I'm MARK MUNYAO MUTUA</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marky376&label=Profile%20views&color=0e75b6&style=flat" alt="marky376" /> </p>
 - I am a student at the Alx SE programme.
 - I am an aspiring full stack developer.
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
