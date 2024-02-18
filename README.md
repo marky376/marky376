@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from Kenya</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marky376&label=Profile%20views&color=0e75b6&style=flat" alt="marky376" /> </p>
 - I am a student at the Alx SE programme.
-- I am an aspiring full stack develo.
+- I am an aspiring full stack develop.
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
 
 # About Me
