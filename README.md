@@ -5,7 +5,7 @@
 - I am a student at the Alx SE programme.
 - I am an aspiring full stack developer.
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
-- I also get excited
+- I also get excited when i am 
 
 
 # About Me
