@@ -8,7 +8,6 @@
 - I also get excited when i am given challenges.
 
 
-
 # About Me
 [![committers.top badge](https://user-badge.committers.top/kenya/marky376.svg)](https://user-badge.committers.top/kenya/marky376)
 # LETS CONNECT
