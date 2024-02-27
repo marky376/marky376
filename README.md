@@ -54,6 +54,7 @@
 ![marky376's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marky376&langs_count=20&theme=dracula&layout=compact) 
 ![marky376's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marky376&theme=dracula&height=50&layout=compact)
 
+
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=marky376&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
