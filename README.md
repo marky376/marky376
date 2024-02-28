@@ -48,8 +48,6 @@
 </p>
 
 # PROGRESS
-![marky376's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marky376&&theme=dracula)
-![marky376's GitHub stats](https://github-readme-stats.vercel.app/api?username=marky376&show_icons=true&theme=dracula)
 ![marky376's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marky376&langs_count=20&theme=dracula&layout=compact) 
 ![marky376's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marky376&theme=dracula&height=50&layout=compact)
 
