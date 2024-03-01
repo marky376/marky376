@@ -7,7 +7,7 @@
 - I am an aspiring full stack developer.
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
 - I also get excited when i am given challenges.
-- I am reast
+- I am ready 
 
 # About Me
 [![committers.top badge](https://user-badge.committers.top/kenya/marky376.svg)](https://user-badge.committers.top/kenya/marky376)
