@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marky376&label=Profile%20views&color=0e75b6&style=flat" alt="marky376" /> </p>
 
 
+
 - I am a student at the Alx SE programme.
 - I am an aspiring full stack developer.
 - I am  passionate about solving problems and creating innovative solutions that make a positive impact on the world.
