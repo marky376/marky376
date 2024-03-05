@@ -12,7 +12,7 @@
 
 
 # About Me
-[![committers.top badge](https://user-badge.committers.top/kenya/marky376.svg)](https://user-badge.committers.top/kenya/marky376)
+
 # LETS CONNECT
 <p align="center">
 <a href="https://twitter.com/mmutuamark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmutuamark" height="30" width="40" /></a>
