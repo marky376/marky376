@@ -12,7 +12,6 @@
 - I am ready to collaborate on  open-source prpjects.
 
 
-[![committers.top badge](https://user-badge.committers.top/kenya/marky376.svg)](https://user-badge.committers.top/kenya/marky376)
 
 # About Me
 
