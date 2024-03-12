@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marky376&label=Profile%20views&color=0e75b6&style=flat" alt="marky376" /> </p>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=74F70B&width=435&lines=%22We+are+what+we+Repeatedly+do.+;Excellence%2C+then...;is+not+an+Act+but+a+Habit.%22+-+Aristotle)](https://git.io/typing-svg)
+
 
 - I am a student at the Alx SE programme.
 - I am an aspiring full stack developer.
