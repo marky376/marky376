@@ -163,7 +163,7 @@ public class CodeBite {
 
 <div align="center">
     
-###### @2024 [BisKIRAN INFOTECH](https://jrohit.com.np), Inc. All rights reserved
+###### @2024
 
 </div>
 
