@@ -3,6 +3,8 @@
 <h3 align="center">A passionate software developer from Kenya</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marky376&label=Profile%20views&color=0e75b6&style=flat" alt="marky376" /> </p>
 
+ <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=74F70B&width=435&lines=%22We+are+what+we+Repeatedly+do.+;Excellence%2C+then...;is+not+an+Act+but+a+Habit.%22+-+Aristotle)](https://git.io/typing-svg)
 
