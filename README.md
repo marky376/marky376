@@ -80,3 +80,93 @@ https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
 marky376/marky376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+``` 
+public class CodeBite {
+    public static void main(String[] args) {
+        // 🚀 Striving for perfection, one line of code at a time.
+        while (codeQuality < perfection) {
+            codeQuality++; // Incrementing code quality 🔝
+        }
+
+        // 🌟 Lifelong coder on a journey of constant improvement.
+        while (alive) {
+            eat();  // Fuel for the coding engine 🍕
+            sleep();  // Recharging for epic code adventures 💤
+            code();  // Crafting software magic ✨
+        }
+
+        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
+        // - RJ's
+    }
+```
+
+
+
+<div align="center">
+    <i style="font-size: 10px;">
+        "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
+    </i>
+</div>
+
+
+
+####
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
+  <a href="https://jharohit.com.np/" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/getintorj/getintorj/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jharohit.com.np" target="_blank">
+    <img src="https://github.com/getintorj/getintorj/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
+  </a>
+  
+ </p>
+
+
+
+<p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
+
+
+<div align="center">
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/getintorj/getintorj/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<br />
+
+
+<div align="center">
+    
+###### @2024 [BisKIRAN INFOTECH](https://jrohit.com.np), Inc. All rights reserved
+
+</div>
+
+
+<img src="https://github.com/getintorj/getintorj/blob/master/line-neon.gif" width="100%"> 
