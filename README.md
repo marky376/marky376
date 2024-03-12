@@ -18,6 +18,8 @@
 
 # About Me
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
 # LETS CONNECT
 <p align="center">
 <a href="https://twitter.com/mmutuamark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmutuamark" height="30" width="40" /></a>
