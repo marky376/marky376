@@ -1,4 +1,5 @@
-![Software Engineer and Developer](https://github.com/marky376/Dev-Mark-Munyao-Mutua/blob/main/2023-04-23%2000_30_58-Untitled%20design%20-%20Email%20Header.png)
+### Software Enginner and Developer
+![Software Engineer and Developer](https://github.com/marky376/marky376/blob/main/2023-04-23%2000_30_58-Untitled%20design%20-%20Email%20Header.png)
 
 <h1 align="center">Hi 👋, I'm MARK MUNYAO MUTUA</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
