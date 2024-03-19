@@ -67,6 +67,9 @@
 
 ### PROGRESS
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+
 ![marky376's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marky376&&theme=dracula)
 ![marky376's GitHub stats](https://github-readme-stats.vercel.app/api?username=marky376&show_icons=true&theme=dracula)
 ![marky376's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marky376&langs_count=20&theme=dracula&layout=compact) 
